@@ -3,7 +3,7 @@
 <img align= "right" alt= "coding" width="400" src= "https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishika-kankane19&label=Profile%20views&color=0e75b6&style=flat" alt="ishika-kankane19" /> </p>
 
-- 🌱 I’m currently learning **DSA, Python, MYSQL, C++, Electronics**
+- 🌱 I’m currently learning **DSA, Python, MYSQL, C++, Java, Internet Of Things**
 
 - 📫 How to reach me **ishikakankane19@gmail.com**
 
